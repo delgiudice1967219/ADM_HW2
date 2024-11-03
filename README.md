@@ -18,5 +18,6 @@ Besides the numbers, the project includes sentiment analysis on review texts in 
 
 ## Additional Files:
 
-`.gitignore`: Specifies which files Git should ignore \\ 
+`.gitignore`: Specifies which files Git should ignore  
+
 `README.md`: This file, providing an overview of the project
