@@ -11,12 +11,12 @@ The project also looks at trends over time, identifying peak times of day and ye
 Additionally, the project compares behaviors between English and Spanish-speaking reviewers, like their tendency to edit reviews and the average number of games they own. Statistical tests are used throughout to check different hypotheses, including whether users with bigger game libraries leave fewer reviews.
 
 Besides the numbers, the project includes sentiment analysis on review texts in the top three languages, classifying reviews as positive, negative, or neutral. This sentiment is then compared with the recommendations and helpful votes to get more insights. Finally, there’s an algorithmic question that involves breaking down an integer into parts of the same parity, adding a computational challenge to the project.
-myFunctions.py
 
 # Important Notes
-  The Interactive plots doesn't show directly in the GitHub window of the `ADM-HW2.ipynb`
+  The interactive plots doesn't show directly in the GitHub window of the `ADM-HW2.ipynb`, so we are going to attach them as `.png`.
+  But if you would like to interact with them you can run it in a Jupyter Notebook.
 
 ## Additional Files:
 
-`.gitignore`: Specifies which files Git should ignore
+`.gitignore`: Specifies which files Git should ignore \\ 
 `README.md`: This file, providing an overview of the project
