@@ -1,6 +1,6 @@
 # ADM_HW2
 
-Repository Structure
+### Repository Structure
 
 The repository includes this main file:
 `ADM-HW2.ipynb`
@@ -13,10 +13,8 @@ Additionally, the project compares behaviors between English and Spanish-speakin
 Besides the numbers, the project includes sentiment analysis on review texts in the top three languages, classifying reviews as positive, negative, or neutral. This sentiment is then compared with the recommendations and helpful votes to get more insights. Finally, there’s an algorithmic question that involves breaking down an integer into parts of the same parity, adding a computational challenge to the project.
 
 # Important Notes
-  The interactive plots doesn't show directly in the GitHub window of the `ADM-HW2.ipynb`, so we are going to share this link to visualize it [NotebookLink](https://nbviewer.org/github/delgiudice1967219/ADM_HW2/blob/main/ADM-HW2.ipynb) and also we attach them as `.png`.  
-  
-  But if you would like to interact with them you can run it in a Jupyter Notebook.
-
+  The interactive plots doesn't show directly in the GitHub window of the `ADM-HW2.ipynb`, so we are going to share this link if you would like to interact with them [NotebookLink](https://nbviewer.org/github/delgiudice1967219/ADM_HW2/blob/main/ADM-HW2.ipynb) and also we attach them as `.png`.  
+    
 ## Additional Files:
 
 `.gitignore`: Specifies which files Git should ignore  
